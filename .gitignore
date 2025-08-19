@@ -1,5 +1,7 @@
 *api_key*
 *__pycache__*
-junk/
 *.DS_Store*
-unstaged/
+data
+*imdm_cookies*
+junk
+imdb_cleanup.py
